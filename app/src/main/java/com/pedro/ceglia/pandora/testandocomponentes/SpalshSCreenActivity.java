@@ -29,4 +29,5 @@ public class SpalshSCreenActivity extends AppCompatActivity {
         Intent i = new Intent(SpalshSCreenActivity.this, MainActivity.class);
         startActivity(i);
     }
+    //
 }
